@@ -1,10 +1,14 @@
 # x96-max-plus-ultra
 x96 max+ ultra 4gb/32gb
 
-## Display:
-To get display to work, place vfd.conf inside ~/.config/
+## LCD display:
+To get display to work, place _vfd.conf_ inside _~/.config/_
+
 To modify data shown in the LCD, install openvdf ( install from repo > coreelec repo > services > openvdf )
 
-## Remote
-the remote used is this https://ae01.alicdn.com/kf/S0e5581bc181a4df596a41ffdf02b352fU.jpg_300x300Q70.jpg_.webp
-place rc_maps.cfg in ~/.config/ and X96AIR in ~/.config/rc_keymaps/
+## Remote:
+The remote used is this:
+
+![remote!](https://ae01.alicdn.com/kf/S0e5581bc181a4df596a41ffdf02b352fU.jpg_300x300Q70.jpg_.webp)
+
+Place _rc_maps.cfg_ in _~/.config/_ and _X96AIR_ in _~/.config/rc_keymaps/_
