@@ -2,8 +2,10 @@
 x96 max+ ultra 4gb/32gb
 
 CoreELEC (official): 21.0-Omega_nightly_... (Amlogic-ne.aarch64)
-      Machine model: Amlogic
-     CoreELEC dt-id: sc2_s905x4_4g_1gbit
+
+Machine model: Amlogic
+
+CoreELEC dt-id: sc2_s905x4_4g_1gbit
 
 
 ## LCD display:
