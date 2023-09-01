@@ -1,6 +1,6 @@
 # x96-max-plus-ultra
 x96 max+ ultra 4gb/32gb
->  CoreELEC (official): 20.X-Omega_nightly_... (Amlogic-ne.aarch64)
+>  CoreELEC (official): 20.X-Nexus_nightly_... (Amlogic-ne.aarch64)
 > 
 >  Machine model: Amlogic
 > 
