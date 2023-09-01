@@ -1,0 +1,11 @@
+[Unit]
+Description=reconnect WireGuard VPN after resume from suspend
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStartPre=/usr/bin/sleep 3
+ExecStart=/storage/reconnectVPN_afterResume.sh
+
+[Install]
+WantedBy=sleep.target
